@@ -1,0 +1,122 @@
+[
+  {
+    "username": "testUser1",
+    "email": "joseph.mogavero@hotmail.com",
+    "password": "password01",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser2",
+    "email": "jmrmwm@gmail.com",
+    "password": "password02",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser3",
+    "email": "JoeCoinMining@gmail.com",
+    "password": "password03",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser4",
+    "email": "CrystalLuxuryCandles@gmail.com",
+    "password": "password04",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser5",
+    "email": "Mogavero999@gmail.com",
+    "password": "password05",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser6",
+    "email": "JoeCoinMinning@gmail.com",
+    "password": "password06",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser7",
+    "email": "joedogg619@hotmaill.com",
+    "password": "password07",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser8",
+    "email": "joedogg619@rsbuddy.com",
+    "password": "password08",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser9",
+    "email": "JoeCoinMining@gmail.com",
+    "password": "password09",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+  },
+  {
+    "username": "testUser10",
+    "email": "Mogavero25@gmail.com",
+    "password": "password10",
+    "savedBooks": [{
+      "bookId": "123",
+      "authors": "Joseph Mogavero",
+      "title": "Good Book",
+      "description": "Great good book"
+
+    }]
+   }
+]
