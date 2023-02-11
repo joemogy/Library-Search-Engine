@@ -22,15 +22,60 @@ export const ADD_USER = gql`
   }
 `;
 
-// export const GET_ME = gql`
+export const GET_ME = gql`
+  query Me {
+    me {
+      _id
+      username
+      email
+      password
+      savedBooks {
+        bookId
+        authors
+        description
+        title
+        image
+        link
+      }
+    }
+}
+`;
 
-// `;
+export const SAVE_BOOK = gql`
+  mutation saveBook($bookData: BookInput!) {
+    saveBook(bookData: $bookData) {
+      _id
+      username
+      email
+      savedBooks {
+        bookId
+        authors
+        image
+        description
+        title
+        link
+      }
+    }
+  }
+`;
 
-// export const SAVE_BOOK = gql`
-
-// `;
-
-
+export const REMOVE_BOOK = gql`
+  mutation Mutation($bookId: ID!) {
+    removeBook(bookId: $bookId) {
+      _id
+      username
+      email
+      savedBooks {
+        bookId
+        authors
+        description
+        title
+        image
+        link
+      }
+    }
+  }
+`
 
 export const LOGIN = gql`
   mutation login($email: String!, $password: String!) {
